@@ -4,7 +4,7 @@ Apply G/L Entries adds the ability to apply and unapply general ledger entries i
 
 ## Usage scenarios
 
-1. [Get Started.](Scenarios/Index.md)
+1. [Get Started.](Scenarios/index.md)
 
 
 
