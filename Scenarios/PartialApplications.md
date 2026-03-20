@@ -9,6 +9,7 @@ You can apply entries that don't fully net to zero. For example, applying a +500
 
 The credit entry is fully settled. The debit entry stays open with the remaining 200, ready for further applications.
 
+![New]()
 > 📸 *Screenshot: Apply G/L Entries worksheet after a partial application, showing the base entry still open with a reduced Remaining Amount.*
 
 ---
