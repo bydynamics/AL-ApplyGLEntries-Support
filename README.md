@@ -1,6 +1,6 @@
-# Blocked Bank Account
+### Apply G/L Entries
 
-A blocked bank account restricts access to funds until specific conditions are met, providing businesses and individuals with a secure way to ensure compliance with legal or regulatory requirements, thereby addressing the need for financial control and protection against unauthorized access. We manage G-accounts, escrow accounts, and other scenarios where bespoke bank accounts are necessary for handling payments.
+Apply G/L Entries adds the ability to apply and unapply general ledger entries in Microsoft Dynamics 365 Business Central — a capability not available in the standard product. Match debit and credit entries on the same G/L account to track which amounts are settled and which remain open, giving you real-time insight into outstanding balances at the entry level.
 
 ## Usage scenarios
 
