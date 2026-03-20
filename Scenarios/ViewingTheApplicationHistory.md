@@ -13,7 +13,7 @@ Every application creates a full audit trail in the **GL Entry Application Entri
 
 Applications always create **two** records (bidirectional): one from each entry's perspective. This ensures you can look up the application history from either side.
 
-![New]()
+![New](https://github.com/bydynamics/AL-ApplyGLEntries-Support/blob/main/Assets/ScreenshotGLEntryAppEntriespageshowingbidirectionalapplicationrecords.png)
 > 📸 *Screenshot: GL Entry App. Entries page showing bidirectional application records.*
 
 ---
