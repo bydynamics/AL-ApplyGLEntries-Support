@@ -4,7 +4,7 @@
 
 From either the **General Ledger Entries** page or the **Apply G/L Entries** worksheet, click **Applied Entries** for the entry you want to reverse.
 
-![New]()
+![New](https://github.com/bydynamics/AL-ApplyGLEntries-Support/blob/main/Assets/ScreenshotGLEntryAppEntriespageshowingapplicationhistoryrecords.png)
 > 📸 *Screenshot: GL Entry App. Entries page showing application history records.*
 
 ## Step 2 — Undo
@@ -16,14 +16,14 @@ The app:
 2. Restores the **Remaining Amount** and **Open** status on both entries
 3. Records the reversal date for audit purposes
 
-![New]()
+![New](https://github.com/bydynamics/AL-ApplyGLEntries-Support/blob/main/Assets/ScreenshotGLEntryAppEntriespagewiththeUndoApplicationactionhighlighted.png)
 > 📸 *Screenshot: GL Entry App. Entries page with the Undo Application action highlighted.*
 
 ## Step 3 — Verify
 
 The entries are back to **Open = Yes** with their original remaining amounts. The audit trail in Applied Entries shows both the original application and the reversal.
 
-![New]()
+![New](https://github.com/bydynamics/AL-ApplyGLEntries-Support/blob/main/Assets/ScreenshotGeneralLedgerEntriesshowingpreviouslyappliedentriesbacktoOpenstatus.png)
 > 📸 *Screenshot: General Ledger Entries showing previously-applied entries back to Open status.*
 
 ---
